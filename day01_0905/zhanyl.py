@@ -1,0 +1,5 @@
+print("HelloPython")
+print("HelloWorld")
+print("HelloZhanyl")
+print("HelloZhanyl")
+print("HelloZhanyl")
